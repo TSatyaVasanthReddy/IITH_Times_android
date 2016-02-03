@@ -1,0 +1,6 @@
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:choiceMode="singleChoice"
+    android:divider="@android:color/transparent" android:dividerHeight="0dp"
+    android:background="#cccc" tools:context=".NavigationDrawerFragment" />
+<!-- From: file:/Users/vasanthreddy/Library/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/IITHTIMES/app/src/main/res/layout/fragment_navigation_drawer.xml -->
